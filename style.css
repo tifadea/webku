@@ -1,11 +1,17 @@
-body{
+{
+   box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
     background:#f3f3f3;
     color:#100%; 
     font-family:sans-serif;
     margin: 0 auto;
 }
 
-.header{
+.header {
    width:90%;
    margin:auto;
    height:120px;
@@ -14,11 +20,11 @@ body{
    color:#fff;
 }
 
-.jarak{
+.jarak {
     pading:0 2pc;
 }
 
-.menu{
+.menu {
     background-color:#417aa8;
     height:50px;
     line-hight:50px;
@@ -28,11 +34,11 @@ body{
     padding:0 auto;
 }
 
-.menu ul{
+.menu ul {
     list-style:none;
 }
 
-.menu ul li a{
+.menu ul li a {
     float:left;
     width:70px;
     display:block;
@@ -41,12 +47,12 @@ body{
     text-decoration:none;
 }
 
-.menu ul li a:hover{
+.menu ul li a:hover {
     background-color:#CFC89A;
     display:block;
 }
 
-.content{
+.content {
     width:90%;
     margin:auto;
     height:420px;
@@ -55,7 +61,7 @@ body{
     color:#333;
 }
 
-.border{
+.border {
     border:2px solid #4887b9;
     margin-top:1pc;
     padding-bottom:1pc;
@@ -63,7 +69,7 @@ body{
     padding-right:2pc;
 }
 
-.kiri{
+.kiri {
     width:70%;
     float:left;
     margin:auto;
@@ -71,7 +77,7 @@ body{
     height:420px;
 }
 
-.kanan{
+.kanan {
     width:30%;
     float:left;
     margin:auto;
@@ -79,11 +85,11 @@ body{
     height:420px;
 }
 
-.undecor{
+.undeco r{
     text-decoration:none;
 }
 
-.footer{
+.footer {
     width:90%;
     margin:auto;
     height:40px;
