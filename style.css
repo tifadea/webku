@@ -75,53 +75,24 @@ a {
 }
 
 .border {
-    padding: 20px;
-    overflow: hidden;
+    border: 2px solid #4887b9;
+    margin-top: 1pc;
+    padding: 1pc 2pc; 
+    display: flex; 
+    overflow: hidden; 
 }
 
 .kiri {
-    width :70%;
-    float: left;
+    width: 70%;
+    padding: 15px; 
     background: #fff;
-    padding: 0 20px;
+    border-right: 1px solid #ddd; 
 }
 
-.kiri h2 {
-    color: #417aa8;
-    margin-bottom: 15px;
-    border-botom: 2px solid #eee;
-    padding-bottom: 10px;
-}
-
-.kiri p {
-    line-height: 1.6x;
-    margin-bottom: 15px;
-    padding bottom: 10px;
-}
-   
 .kanan {
     width: 30%;
-    float :left;
-    background: #f9f9f9;
-    padding: 20px;
-    border-left: 1px solid #eee;
-}
-
-.kanan h3 {
-    background: #417aa8;
-    color: #fff:
-    padding: 10px;
-    margin-bottom: 15px;
-    font-size: 14px;
-    border-radius: 5px;
-}
-
-.kanan ul {
-    list-style: none;
-}
-
-.kanan ul li {
-    border-bottom: 1px dotted #ccc;
+    padding: 15px;
+    background: #fff;
 }
 
 .undecor {
