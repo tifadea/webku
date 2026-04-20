@@ -10,4 +10,10 @@
     <h1> Selamat Datang di Website Saya </h1>
     <h2> the night we meet /h2>
          <ul>
-               <
+               <li><a href="index.html"</a></li>
+               <li><a href="about.html"</a></li>
+               <li><a href="#">Blog</a></li>
+               <li><a href="#">Contact</a></li>
+         </ul>
+               <h3>HTML</H3>
+               <p>HTML atau HyperText Markup Language merupakan sebuah bahasa markah untuk membuat halaman web </p>
